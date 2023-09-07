@@ -46,7 +46,7 @@ let rotationEnabled1 = true;
 rotateElement1.addEventListener('click', function () {
     if (rotationEnabled1) {
     rotateElement1.style.transition = 'transform 0.75s';
-    rotateElement1.style.transform = 'rotate(45deg)';
+    rotateElement1.style.transform = 'rotate(135deg)';
     rotationEnabled1 = false; }
 
     else {
@@ -63,7 +63,7 @@ let rotationEnabled2 = true;
 rotateElement2.addEventListener('click', function () {
     if (rotationEnabled2) {
     rotateElement2.style.transition = 'transform 0.75s';
-    rotateElement2.style.transform = 'rotate(45deg)';
+    rotateElement2.style.transform = 'rotate(135deg)';
     rotationEnabled2 = false; }
 
     else {
@@ -80,7 +80,7 @@ let rotationEnabled3 = true;
 rotateElement3.addEventListener('click', function () {
     if (rotationEnabled3) {
     rotateElement3.style.transition = 'transform 0.75s';
-    rotateElement3.style.transform = 'rotate(45deg)';
+    rotateElement3.style.transform = 'rotate(135deg)';
     rotationEnabled3 = false; }
 
     else {
@@ -97,7 +97,7 @@ let rotationEnabled4 = true;
 rotateElement4.addEventListener('click', function () {
     if (rotationEnabled4) {
     rotateElement4.style.transition = 'transform 0.75s';
-    rotateElement4.style.transform = 'rotate(45deg)';
+    rotateElement4.style.transform = 'rotate(135deg)';
     rotationEnabled4 = false; }
 
     else {
@@ -114,7 +114,7 @@ let rotationEnabled5 = true;
 rotateElement5.addEventListener('click', function () {
     if (rotationEnabled5) {
     rotateElement5.style.transition = 'transform 0.75s';
-    rotateElement5.style.transform = 'rotate(45deg)';
+    rotateElement5.style.transform = 'rotate(135deg)';
     rotationEnabled5 = false; }
 
     else {
@@ -131,7 +131,7 @@ let rotationEnabled6 = true;
 rotateElement6.addEventListener('click', function () {
     if (rotationEnabled6) {
     rotateElement6.style.transition = 'transform 0.75s';
-    rotateElement6.style.transform = 'rotate(45deg)';
+    rotateElement6.style.transform = 'rotate(135deg)';
     rotationEnabled6 = false; }
 
     else {
@@ -148,7 +148,7 @@ let rotationEnabled7 = true;
 rotateElement7.addEventListener('click', function () {
     if (rotationEnabled7) {
     rotateElement7.style.transition = 'transform 0.75s';
-    rotateElement7.style.transform = 'rotate(45deg)';
+    rotateElement7.style.transform = 'rotate(135deg)';
     rotationEnabled7 = false; }
 
     else {
@@ -165,7 +165,7 @@ let rotationEnabled8 = true;
 rotateElement8.addEventListener('click', function () {
     if (rotationEnabled8) {
     rotateElement8.style.transition = 'transform 0.75s';
-    rotateElement8.style.transform = 'rotate(45deg)';
+    rotateElement8.style.transform = 'rotate(135deg)';
     rotationEnabled8 = false; }
 
     else {
@@ -182,7 +182,7 @@ let rotationEnabled9 = true;
 rotateElement9.addEventListener('click', function () {
     if (rotationEnabled9) {
     rotateElement9.style.transition = 'transform 0.75s';
-    rotateElement9.style.transform = 'rotate(45deg)';
+    rotateElement9.style.transform = 'rotate(135deg)';
     rotationEnabled9 = false; }
 
     else {
@@ -199,7 +199,7 @@ let rotationEnabled10 = true;
 rotateElement10.addEventListener('click', function () {
     if (rotationEnabled10) {
     rotateElement10.style.transition = 'transform 0.75s';
-    rotateElement10.style.transform = 'rotate(45deg)';
+    rotateElement10.style.transform = 'rotate(135deg)';
     rotationEnabled10 = false; }
 
     else {
@@ -216,7 +216,7 @@ let rotationEnabled11 = true;
 rotateElement11.addEventListener('click', function () {
     if (rotationEnabled11) {
     rotateElement11.style.transition = 'transform 0.75s';
-    rotateElement11.style.transform = 'rotate(45deg)';
+    rotateElement11.style.transform = 'rotate(135deg)';
     rotationEnabled11 = false; }
 
     else {
@@ -233,7 +233,7 @@ let rotationEnabled12 = true;
 rotateElement12.addEventListener('click', function () {
     if (rotationEnabled12) {
     rotateElement12.style.transition = 'transform 0.75s';
-    rotateElement12.style.transform = 'rotate(45deg)';
+    rotateElement12.style.transform = 'rotate(135deg)';
     rotationEnabled12 = false; }
 
     else {
