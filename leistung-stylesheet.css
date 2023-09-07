@@ -214,6 +214,7 @@ p {
 }
 
 .kachel-circle {
+    display: flex;
     cursor: pointer;
     position: absolute;
     z-index: 1;
@@ -228,7 +229,7 @@ p {
 .kachel-expand {
     position: relative;
     display: inline-block;
-    line-height: max(2.4vw, 35px);
+    line-height: max(2.5vw, 35px);
     height: 100%;
     width: 100%;
     color: white;
@@ -242,6 +243,7 @@ p {
     cursor: pointer;
     transition-duration: 0.5s;
     z-index: 1;
+    margin-left: 0.09vw
 }
 
 .kachel-inhalt {
